@@ -1,6 +1,6 @@
 # Active Record Domain Modeling Project
 
-In this assignment, you'll built out your own project, using Active Record to enact database relationships, from scratch. 
+In this assignment, you'll build out your own project, using Active Record to enact database relationships, from scratch. 
 
 ## Objectives
 
