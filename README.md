@@ -56,7 +56,7 @@ You also need to keep track of the books a user has previously checked out, vs. 
 │       ├── connection_adapter.rb
 │       └── db_registry.rb
 ```
-Use [this lab](https://github.com/learn-co-students/activerecord-costume-store-todo-web-0716) to guide you through your environment set up. 
+Use [this lab](https://github.com/learn-co-curriculum/activerecord-costume-store-todo) to guide you through your environment set up. 
 
 Make sure you have a Gemfile that includes the following gems:
 
